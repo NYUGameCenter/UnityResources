@@ -1,6 +1,8 @@
 # What's going on here?
 
-Per students' request, I'm creating a big list of Unity resources. (There will also be another list of non-unity game dev resources.) This is very much a work in progress. Right now, just collecting resources & starting to sort them. I've been stubbing in simple explanations for each category; I think we'll want to keep those going. My preference is not to overwhelm with options, & to present multiple options only when there are very strong reasons to do so. In this way, the list can be more useful than the "Other Lists Like This" below, which tend to be exhaustive & poorly pruned. However, using those lists for research & inspiration is encouraged!
+Per students' request, let's create a big list of Unity resources. (There will also be another list of non-unity game dev resources.) Right now, this is very much a work in progress. 
+
+I've started by collecting resources & starting to sort them. I've been stubbing in simple explanations for each category; I think we'll want to keep those going. My preference is not to overwhelm with options, & to present multiple options for the same functionality only when there are *very strong reasons* to do so. In this way, I hope the list can be more useful than the "Other Lists Like This" below, which tend to be exhaustive & poorly pruned. That said, using those lists for research & inspiration is encouraged!
 
 
 Other Lists Like This
