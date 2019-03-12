@@ -27,8 +27,8 @@ It's a library for Unity that makes it very easy to create simple buttons, lists
 Writing Unity Editor code is tough & time consuming. Often all you want is a simple button to run a function, but that usually requires creating a whole new script. With Naughty Attributes, it's super simple.
 
 Example:
-!(Example Button Code)[https://github.com/dbrizov/NaughtyAttributes/raw/master/Assets/Plugins/NaughtyAttributes/Documentation/Button_Code.PNG]
-!(Example Button)[https://github.com/dbrizov/NaughtyAttributes/raw/master/Assets/Plugins/NaughtyAttributes/Documentation/Button_Inspector.PNG]
+![Example Button Code](https://github.com/dbrizov/NaughtyAttributes/raw/master/Assets/Plugins/NaughtyAttributes/Documentation/Button_Code.PNG)
+![Example Button](https://github.com/dbrizov/NaughtyAttributes/raw/master/Assets/Plugins/NaughtyAttributes/Documentation/Button_Inspector.PNG)
 
 ## Pooling
 #### What's object pooling?
