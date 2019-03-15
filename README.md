@@ -85,9 +85,11 @@ A Tweening library is a set of extensions for Unity focused on animating values 
 
 Tweening can save you from writing timers, dealing with tons of lerps[TODO: Link], or using coroutines.
 
+#### Resources:
+
 -   [DOTween](#DOTween)
 -   [LeanTween](#LeanTween)
--   [EasingFunctionsCheatSheet](#Easing Functions Cheat Sheet)
+-   [Easing Functions Cheat Sheet](#EasingFunctionsCheatSheet)
 
 ### DOTween
 
