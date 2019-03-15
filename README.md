@@ -72,6 +72,20 @@ Its very powerful & simple to use at first.
 #### Warnings? 
 If you choose to venture deeper into its powerful features, the syntax can be a little odd if you're coming from writing mostly c# for Unity, as it more closely resembles modern Javascript.
 
+### LeanTween
+-https://assetstore.unity.com/packages/tools/animation/leantween-3595
+#### What is this?
+LeanTween is another commonly used tweening library.
+#### Why use it?
+It's a good alternative to DOTween, and it's useful to know about as it may be used in other code or projects you see online.
+
+### Easing Functions Cheat Sheet
+- https://easings.net/
+#### What is this?
+The easing functions cheat sheet is a visualization of many of the more common easing functions.
+### Why use it?
+Sometimes it can be hard to remember how a particular tween looks - this gives an easy to use reference.
+
 Examples:
 
 
