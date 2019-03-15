@@ -89,7 +89,7 @@ Tweening can save you from writing timers, dealing with tons of lerps[TODO: Link
 
 -   [DOTween](#DOTween)
 -   [LeanTween](#LeanTween)
--   [Easing Functions Cheat Sheet](#EasingFunctionsCheatSheet)
+-   [Easing Functions Cheat Sheet](#Easing-Functions-Cheat-Sheet)
 
 ### DOTween
 
