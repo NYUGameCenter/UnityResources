@@ -16,6 +16,7 @@ Other Lists Like This
 -   [Editor GUI](#editor-gui)
 -   [Pooling](#object-pooling)
 -   [Tweening](#tweening)
+-   [Shaders](#shaders)
 -   [Git](#git)
 -   [Controllers and Input](#controllers-and-input)
 -   [AI](#ai)
@@ -77,10 +78,12 @@ A Tweening library is a set of extensions for Unity focused on animating values 
 
 Tweening can save you from writing timers, dealing with tons of lerps[TODO: Link], or using coroutines.
 
-#### Resources:
+#### DoTween:
 
 -   [DOTween](http://dotween.demigiant.com/) - DOTween is the most commonly used tweening library at the Game Center. Its very powerful & simple to use at first. However, if you choose to venture deeper into its powerful features, the syntax can be a little odd if you're coming from writing mostly c# for Unity, as it more closely resembles modern Javascript.
--   [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) - LeanTween is another commonly used tweening library. It's a good alternative to DOTween, and it's useful to know about as it may be used in other code or projects you see online.
+
+#### Additional Resources:
+
 -   [Easing Functions Cheat Sheet](https://easings.net/) - The easing functions cheat sheet is a visualization of many of the more common easing functions. Sometimes it can be hard to remember how a particular tween looks - this gives an easy to use reference.
 
 ## Git ([Link](https://git-scm.com/))
@@ -110,8 +113,11 @@ Whenever possible, it's always recommended to use the NYU Unity Git Config, as i
 
 ## Controllers and Input
 
--   [Rewired](http://guavaman.com/projects/rewired/)
 -   [InControl](https://assetstore.unity.com/packages/tools/input-management/incontrol-14695)
+
+## Shaders
+
+-   [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) - A _PAID_ asset that helps visualize creating shaders.
 
 ## AI
 
@@ -134,7 +140,6 @@ Below is a list of some helpful, Unity-specific tutorials.
 
 ### Shaders and Graphics
 
--   [Amplify Shader Editor](https://assetstore.unity.com/packages/tools/visual-scripting/amplify-shader-editor-68570) - A _PAID_ asset that helps visualize creating shaders.
 -   [Optimizing Graphics Performance](https://docs.unity3d.com/Manual/OptimizingGraphicsPerformance.html) - A good Unity-provided list of how to avoid common graphics issues
 -   [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - A great set of tutorials on how shaders work in Unity.
 -   [A gentle introduction to shaders in Unity3D](https://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity3d/) - A series of easy-to-digest tutorials in shaders for Unity by Alan Zucconi.
