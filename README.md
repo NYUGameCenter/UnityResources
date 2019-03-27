@@ -66,7 +66,7 @@ Example:
 
 You're running into memory limits or garbage collection hitches & want to ensure smooth gameplay.
 
-### Simple Pool Script ([Link](https://gist.github.com/quill18/5a7cfffae68892621267)) - A simple and lightweight pool
+### Simple Pool Script ([Link](https://gist.github.com/quill18/5a7cfffae68892621267)) - A simple and lightweight pool script.
 
 ## Tweening
 
@@ -90,6 +90,10 @@ Tweening can save you from writing timers, dealing with tons of lerps[TODO: Link
 
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 
+### NYU Unity Git Config ([Link](https://github.com/NYUGameCenter/Unity-Git-Config))
+
+Whenever possible, it's always recommended to use the NYU Unity Git Config, as it will help prevent common issues using Git with Unity. Follow these instructions _exactly_, and make sure you do them all!
+
 ### GitHub([Link](http://www.github.com))
 
 -   GitHub is a free git repository hosting service. GitHub provides a Web-based graphical interface, as well as access control and several collaboration features, such as a wikis and basic task management tools.
@@ -101,15 +105,11 @@ When you're first starting with git, it can often be useful to use a GUI, or Gra
 -   [GitKraken](https://www.gitkraken.com/)
 -   [SourceTree](https://www.sourcetreeapp.com/)
 
-### Git Tutorials
+### Additional Resources:
 
 -   [Learn Git Branching](https://learngitbranching.js.org/) - A straightforward tutorial on how branching in git works.
 -   [Git: The Simple Guide](http://rogerdudler.github.io/git-guide/) - A simple explanation of how to use git from the command line.
 -   [Don't Be Afraid To Commit](https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html) - A good primer on using Git from the command line.
-
-### NYU Unity Git Config ([Link](https://github.com/NYUGameCenter/Unity-Git-Config))
-
-Whenever possible, it's always recommended to use the NYU Unity Git Config, as it will help prevent common issues using Git with Unity.
 
 ## Controllers and Input
 
@@ -122,23 +122,22 @@ Whenever possible, it's always recommended to use the NYU Unity Git Config, as i
 ## AI
 
 -   [A\* Pathfinding](http://arongranberg.com/astar/)
--   [Unity3D Machine Learning](https://unity3d.com/machine-learning)
 
-## Tutorials
+## Tutorials and Further Resources
 
 Below is a list of some helpful, Unity-specific tutorials.
 
-### General
+### General Tutorials and Resources
 
 -   [Unity Blog](https://blogs.unity3d.com/) - Straight from the source itself, the Unity3D blog often has tutorials on a variety of topics. Unity also provides a set of [video tutorials](http://unity3d.com/learn/tutorials/modules) that are well worth checking out.
 -   [What Not To Do In Unity](https://unity3d.com/how-to/unity-common-mistakes-to-avoid) - Unity3D has also put together a useful list of common mistakes in Unity.
 -   [50 Tips and Best Practices](http://www.gamasutra.com/blogs/HermanTulleken/20160812/279100/50_Tips_and_Best_Practices_for_Unity_2016_Edition.php) - A good list of best practices for working in Unity.
 
-### Programming
+### Programming Tutorials and Resources
 
 -   [Gameplay Programming Patterns](http://gameprogrammingpatterns.com/) - A great resource on programming for games, useful in Unity and any other engine.
 
-### Shaders and Graphics
+### Shaders and Graphics Tutorials and Resources
 
 -   [Optimizing Graphics Performance](https://docs.unity3d.com/Manual/OptimizingGraphicsPerformance.html) - A good Unity-provided list of how to avoid common graphics issues
 -   [Catlike Coding](https://catlikecoding.com/unity/tutorials/) - A great set of tutorials on how shaders work in Unity.
