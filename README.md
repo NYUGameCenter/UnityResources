@@ -26,6 +26,8 @@ Other Lists Like This
 
 #### What's documentation?
 
+Explanation of documentation here.
+
 #### Why use it?
 
 ### User Contributed Notes for Unity Docs ([Link](https://chrome.google.com/webstore/detail/user-contributed-notes-fo/fchdfdnnpkphopmdaochdfnmcahndmnb))
