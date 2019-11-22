@@ -73,7 +73,24 @@ Writing Unity Editor code is tough & time consuming. Often all you want is a sim
 
 Object pooling is a common optimization that essentially amounts to recycling gameobjects. Rather than instatiating & deleting objects everytime you need to, you create a big pool of objects, taking & returning from that pool as needed. By pooling objects, you can avoid the computational overhead involved with instatiation & deletion, namely garbage collection hitches, which temporarily hault your game.
 
-### Simple Pool Script ([Link](https://gist.github.com/quill18/5a7cfffae68892621267)) - A simple and lightweight pool script.
+### Simple Pool Script ([Link](https://gist.github.com/quill18/5a7cfffae68892621267))  
+
+#### What is this?
+
+A simple and lightweight pool script that impliments an object pooling pattern for you.
+
+>Instead of calling Instantiate(), use this:
+>  SimplePool.Spawn(somePrefab, somePosition, someRotation);
+
+>Instead of destroying an object, use this:
+>  SimplePool.Despawn(myGameObject);
+
+>If desired, you can preload the pool with a number of instances:
+>  SimplePool.Preload(somePrefab, 20);
+ 
+#### Why use it?
+
+You can easily gain the benefits of object pooling without having to write it yourself.
 
 ## Tweening
 Tweening is interpolating between 2 values or states over a duration of time. Interpolating linearly is often called lerping. Lerps can be annoying to manage, and often you want to interpolate in a non-linear fashion. A Tweening library is a set of extensions for Unity that makes this process of animating values across a number frames easier & more flexible. Tweening can save you from writing timers, dealing with tons of lerps[TODO: Link], or using coroutines.
