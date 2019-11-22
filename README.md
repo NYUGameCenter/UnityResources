@@ -39,7 +39,7 @@ Unity documentation, like most documentation, is often incomplete, sometimes con
 
 ## Builds
 
-Builds are a sharable versions of your game, built for a particular platform (windows, iOS, etc.). You need to build your work in order to share it with others or sell it.
+Builds are sharable versions of your game, built for a particular platform (windows, iOS, etc.). You need to build your work in order to share it with others or sell it.
 
 ### Super Unity Build ([Link](https://github.com/Chaser324/unity-build))
 
