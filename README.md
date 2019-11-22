@@ -53,6 +53,8 @@ So you can share your work with others or sell it.
 
 ### Super Unity Build ([Link](https://github.com/Chaser324/unity-build))
 
+![Preview](https://github.com/NYUGameCenter/UnityResources/blob/master/Images/SuperUnityBuild.png)
+
 #### What is this?
 
 It's a unity asset that makes building for various platforms & uploading builds to sites like itch.io very easy.
@@ -65,9 +67,15 @@ It saves you time, saves you from having to do a multi-step upload process every
 
 #### What's Editor GUI?
 
+It's how component are drawn in the unity inspector. It's very customizable, but can be arduous to impliment.
+
 #### Why use it?
 
+Custom editor tools can enable huge improvements to workflow, enable easier testing, and make collaboration easier.
+
 ### Naughty Attributes ([Link](https://github.com/dbrizov/NaughtyAttributes))
+
+![Example Button](https://github.com/NYUGameCenter/UnityResources/blob/master/Images/NaughtyAttributes.png)
 
 #### What is this?
 
@@ -76,10 +84,6 @@ It's a library for Unity that makes it very easy to create simple buttons, lists
 #### Why use it?
 
 Writing Unity Editor code is tough & time consuming. Often all you want is a simple button to run a function, but that usually requires creating a whole new script. With Naughty Attributes, it's super simple.
-
-Example:
-![Example Button Code](https://github.com/dbrizov/NaughtyAttributes/raw/master/Assets/Plugins/NaughtyAttributes/Documentation/Button_Code.PNG)
-![Example Button](https://github.com/dbrizov/NaughtyAttributes/raw/master/Assets/Plugins/NaughtyAttributes/Documentation/Button_Inspector.PNG)
 
 ## Object Pooling
 
