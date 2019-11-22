@@ -13,6 +13,7 @@ Other Lists Like This
 # Contents
 
 -   [Documentation](#documentation)
+-   [Builds](#builds)
 -   [Editor GUI](#editor-gui)
 -   [Pooling](#object-pooling)
 -   [Tweening](#tweening)
@@ -39,6 +40,26 @@ It's a Chrome Plugin to add user comments to the Unity documentation pages.
 #### Why use it?
 
 Unity documentation, like most documentation, is often incomplete, sometimes confusing, and sometimes straight up wrong. User comments can save you from making mistakes based on bad documentation.
+
+## Builds
+
+#### What's a build?
+
+It's a sharable version of your unity game, built for a particular platform (windows, iOS, etc.).
+
+#### Why use it?
+
+So you can share your work with others or sell it.
+
+### Super Unity Build ([Link](https://github.com/Chaser324/unity-build))
+
+#### What is this?
+
+It's a unity asset that makes building for various platforms & uploading builds to sites like itch.io very easy.
+
+#### Why use it?
+
+It saves you time, saves you from having to do a multi-step upload process every time you build. 
 
 ## Editor GUI
 
