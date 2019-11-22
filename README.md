@@ -25,11 +25,7 @@ Other Lists Like This
 
 ## Documentation
 
-#### What's documentation?
-
-Explanation of documentation here.
-
-#### Why use it?
+Engine documentation is a searchable repository of all the capabilities of a game engine. Documentation is difficult to keep current, as game engines are complex & constantly changing.
 
 ### User Contributed Notes for Unity Docs ([Link](https://chrome.google.com/webstore/detail/user-contributed-notes-fo/fchdfdnnpkphopmdaochdfnmcahndmnb))
 
@@ -43,13 +39,7 @@ Unity documentation, like most documentation, is often incomplete, sometimes con
 
 ## Builds
 
-#### What's a build?
-
-It's a sharable version of your unity game, built for a particular platform (windows, iOS, etc.).
-
-#### Why use it?
-
-So you can share your work with others or sell it.
+Builds are a sharable versions of your game, built for a particular platform (windows, iOS, etc.). You need to build your work in order to share it with others or sell it.
 
 ### Super Unity Build ([Link](https://github.com/Chaser324/unity-build))
 
@@ -65,13 +55,7 @@ It saves you time, saves you from having to do a multi-step upload process every
 
 ## Editor GUI
 
-#### What's Editor GUI?
-
-It's how component are drawn in the unity inspector. It's very customizable, but can be arduous to impliment.
-
-#### Why use it?
-
-Custom editor tools can enable huge improvements to workflow, enable easier testing, and make collaboration easier.
+Editor GUI is how components are drawn in the unity inspector. It's very customizable, but can be arduous to impliment. That said, on longer projects, custom editor tools can enable huge improvements to workflow, enable easier testing, and make collaboration easier.
 
 ### Naughty Attributes ([Link](https://github.com/dbrizov/NaughtyAttributes))
 
@@ -87,23 +71,12 @@ Writing Unity Editor code is tough & time consuming. Often all you want is a sim
 
 ## Object Pooling
 
-#### What's object pooling?
-
-#### Why pool your objects?
-
-You're running into memory limits or garbage collection hitches & want to ensure smooth gameplay.
+Object pooling is a common optimization that essentially amounts to recycling gameobjects. Rather than instatiating & deleting objects everytime you need to, you create a big pool of objects, taking & returning from that pool as needed. By pooling objects, you can avoid the computational overhead involved with instatiation & deletion, namely garbage collection hitches, which temporarily hault your game.
 
 ### Simple Pool Script ([Link](https://gist.github.com/quill18/5a7cfffae68892621267)) - A simple and lightweight pool script.
 
 ## Tweening
-
-#### What's a tweening library?
-
-A Tweening library is a set of extensions for Unity focused on animating values across a number frames.
-
-#### Why use it?
-
-Tweening can save you from writing timers, dealing with tons of lerps[TODO: Link], or using coroutines.
+Tweening is interpolating between 2 values or states over a duration of time. Interpolating linearly is often called lerping. Lerps can be annoying to manage, and often you want to interpolate in a non-linear fashion. A Tweening library is a set of extensions for Unity that makes this process of animating values across a number frames easier & more flexible. Tweening can save you from writing timers, dealing with tons of lerps[TODO: Link], or using coroutines.
 
 #### DoTween:
 
