@@ -21,6 +21,7 @@ Other Lists Like This
 -   [Git](#git)
 -   [Controllers and Input](#controllers-and-input)
 -   [AI](#ai)
+-   [Package and Asset Repositories](#package-and-asset-repositories)
 -   [Tutorials](#tutorials)
 
 ## Documentation
@@ -130,6 +131,7 @@ When you're first starting with git, it can often be useful to use a GUI, or Gra
 
 ## Controllers and Input
 
+-   [Gold Player](https://github.com/Hertzole/gold-player)
 -   [InControl](https://assetstore.unity.com/packages/tools/input-management/incontrol-14695)
 
 ## Shaders
@@ -139,6 +141,11 @@ When you're first starting with git, it can often be useful to use a GUI, or Gra
 ## AI
 
 -   [A\* Pathfinding](http://arongranberg.com/astar/)
+
+## Package and Asset Repositories
+
+- [Unity List](https://unitylist.com/) - An extensive index of opensource unity assets, projects, templates, and demos.
+- [Open Unity Package Manager](https://openupm.com/) - A registry for open source unity packages, which can add various functionality to your game, like an in-build debug console, or Hedera, Robert Yang's ivy painting plug-in.
 
 ## Tutorials and Further Resources
 
