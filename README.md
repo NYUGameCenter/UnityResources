@@ -15,6 +15,7 @@ Other Lists Like This
 -   [Documentation](#documentation)
 -   [Builds](#builds)
 -   [Editor GUI](#editor-gui)
+-   [Profiling](#profiling)
 -   [Pooling](#object-pooling)
 -   [Tweening](#tweening)
 -   [Shaders](#shaders)
@@ -69,6 +70,37 @@ It's a library for Unity that makes it very easy to create simple buttons, lists
 #### Why use it?
 
 Writing Unity Editor code is tough & time consuming. Often all you want is a simple button to run a function, but that usually requires creating a whole new script. With Naughty Attributes, it's super simple.
+
+## Profiling
+
+Using built-in and extended tools to identify causes of slow down in your game. The built-in Unity profiler & graphics profiler are a great place to start, but you can bolster your capabilities by using the profilers built into Visual Studio & Rider. Additionally, there are packages and extensions that will enable you to profile the compilation process, listed here. 
+
+### Compilation Visualizer ([Link](### Compilation Visualizer ([Link](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler))))
+
+![Screenshot](https://github.com/needle-tools/compilation-visualizer/wiki/images/compact-view-recompile.gif)
+
+#### What is this?
+
+It's an extension that visualizes the compilation process, including dependencies. It's incredibly useful if you're working with assembly definitions, but can also be useful in its most basic form, a way to ID which compilation processes are most expensive. 
+
+#### Why use it?
+
+Oftentimes, there are assets or packages you don't need that are taking up time during compilation, this will help you ID which ones have the biggest impact. It also makes the process of [splitting your assemblies](https://docs.unity3d.com/Manual/ScriptCompilationAssemblyDefinitionFiles.html) much clearer. 
+
+### Editor Iteration Profiler ([Link](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler))
+
+![Screenshot](https://forum.unity.com/proxy.php?image=https%3A%2F%2Flh3.googleusercontent.com%2FhX6J0ezgKT_bvzvstQqMAJici8A7sCn1wSks9ToVqp9UE2YNU7Hi_QzPFEzT_9JMswNAQQEsQXPfIDGGaULshOMJ2xA9e6D2oQrke86ZeCwfH0HrIJ7ta_8-1x4NXVHo1pJEkDSg&hash=55e637ace00d96fc99ad923ce3cc8054)
+
+#### What is this?
+
+It's an extension built by unity to allow you to profile & see what happens during editor domain reloads. As Unity describes it: "
+The tool is an attempt to empower you, our users, to understand and help you solve the common question 'Why does it take so long to compile my scripts/enter playmode?'."
+
+#### Why use it?
+
+You can speed up your iteration if you identify time sinks in your editor iteration.
+
+
 
 ## Object Pooling
 
