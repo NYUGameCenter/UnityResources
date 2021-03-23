@@ -75,7 +75,7 @@ Writing Unity Editor code is tough & time consuming. Often all you want is a sim
 
 Using built-in and extended tools to identify causes of slow down in your game. The built-in Unity profiler & graphics profiler are a great place to start, but you can bolster your capabilities by using the profilers built into Visual Studio & Rider. Additionally, there are packages and extensions that will enable you to profile the compilation process, listed here. 
 
-### Compilation Visualizer ([Link](### Compilation Visualizer ([Link](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler))))
+### Compilation Visualizer ([Link](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler))
 
 ![Screenshot](https://github.com/needle-tools/compilation-visualizer/wiki/images/compact-view-recompile.gif)
 
