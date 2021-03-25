@@ -22,6 +22,7 @@ Other Lists Like This
 -   [Git](#git)
 -   [Controllers and Input](#controllers-and-input)
 -   [AI](#ai)
+-   [Debugging](#debugging)
 -   [Package and Asset Repositories](#package-and-asset-repositories)
 -   [Tutorials](#tutorials)
 
@@ -45,7 +46,7 @@ Builds are sharable versions of your game, built for a particular platform (wind
 
 ### Super Unity Build ([Link](https://github.com/Chaser324/unity-build))
 
-![Preview](https://github.com/NYUGameCenter/UnityResources/blob/master/Images/SuperUnityBuild.png)
+<img src="https://github.com/NYUGameCenter/UnityResources/blob/master/Images/SuperUnityBuild.png" width="500">
 
 #### What is this?
 
@@ -60,8 +61,7 @@ It saves you time, saves you from having to do a multi-step upload process every
 Editor GUI is how components are drawn in the unity inspector. It's very customizable, but can be arduous to impliment. That said, on longer projects, custom editor tools can enable huge improvements to workflow, enable easier testing, and make collaboration easier.
 
 ### Naughty Attributes ([Link](https://github.com/dbrizov/NaughtyAttributes))
-
-![Example Button](https://github.com/NYUGameCenter/UnityResources/blob/master/Images/NaughtyAttributes.png)
+<img src="https://github.com/NYUGameCenter/UnityResources/blob/master/Images/NaughtyAttributes.png" width="500">
 
 #### What is this?
 
@@ -77,7 +77,7 @@ Using built-in and extended tools to identify causes of slow down in your game. 
 
 ### Compilation Visualizer ([Link](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler))
 
-![Screenshot](https://github.com/needle-tools/compilation-visualizer/wiki/images/compact-view-recompile.gif)
+<img src="https://github.com/needle-tools/compilation-visualizer/wiki/images/compact-view-recompile.gif" width="500">
 
 #### What is this?
 
@@ -89,7 +89,7 @@ Oftentimes, there are assets or packages you don't need that are taking up time 
 
 ### Editor Iteration Profiler ([Link](https://github.com/Unity-Technologies/com.unity.editoriterationprofiler))
 
-![Screenshot](https://forum.unity.com/proxy.php?image=https%3A%2F%2Flh3.googleusercontent.com%2FhX6J0ezgKT_bvzvstQqMAJici8A7sCn1wSks9ToVqp9UE2YNU7Hi_QzPFEzT_9JMswNAQQEsQXPfIDGGaULshOMJ2xA9e6D2oQrke86ZeCwfH0HrIJ7ta_8-1x4NXVHo1pJEkDSg&hash=55e637ace00d96fc99ad923ce3cc8054)
+<img src="https://forum.unity.com/proxy.php?image=https%3A%2F%2Flh3.googleusercontent.com%2FhX6J0ezgKT_bvzvstQqMAJici8A7sCn1wSks9ToVqp9UE2YNU7Hi_QzPFEzT_9JMswNAQQEsQXPfIDGGaULshOMJ2xA9e6D2oQrke86ZeCwfH0HrIJ7ta_8-1x4NXVHo1pJEkDSg&hash=55e637ace00d96fc99ad923ce3cc8054" width="500">
 
 #### What is this?
 
@@ -99,8 +99,6 @@ The tool is an attempt to empower you, our users, to understand and help you sol
 #### Why use it?
 
 You can speed up your iteration if you identify time sinks in your editor iteration.
-
-
 
 ## Object Pooling
 
@@ -173,6 +171,16 @@ When you're first starting with git, it can often be useful to use a GUI, or Gra
 ## AI
 
 -   [A\* Pathfinding](http://arongranberg.com/astar/)
+
+## Debugging
+
+### Mixed Callstack
+<img src="https://raw.githubusercontent.com/mderoy/UnityMixedCallstack/master/Images/csb.png" width="500"> <img src="https://raw.githubusercontent.com/mderoy/UnityMixedCallstack/master/Images/cs.png" width="500">
+
+Seeing empty calls in your callstack like the first one while debugging? Want them to be fully fleshed out like the second? You can, using a Visual Studio plugin developed by Unity.
+
+-   [UnityMixedCallstack](https://github.com/Unity-Technologies/UnityMixedCallstack)
+-   [CallStackTutorial](https://www.sebaslab.com/how-to-debug-unity-natively-using-mixed-c-and-c-stack/)  
 
 ## Package and Asset Repositories
 
